@@ -1,13 +1,3 @@
-<h1 align="center">
-
-<a href="https://git.io/typing-svg">
-
-    <img src="https://readme-typing-svg.herokuapp.com?font=man+rope&duration=5003&pause=1000&color=F2F729&background=30FFB800&width=800&lines=Hello!+I'm+Vevin.+Welcome+to+my+GitHub!;こんにちは!+私はヴェヴィンです。私のGitHubへようこそ!;¡Hola!+Soy+Vevin.+¡Bienvenido+a+mi+GitHub!;नमस्ते!+मैं+वेविन+हूँ।+मेरे+GitHub+में+आपका+स्वागत+है!;வணக்கம்!+நான்+வேவின்.+என்+GitHub-க்கு+வாங்க!;안녕하세요!+저는+베빈입니다.+제+GitHub에+오신+것을+환영합니다!" alt="Typing SVG" />
-
-</a>
-
-</h1>
-
 <div align="center">
 
   <img src="https://profile-counter.glitch.me/Vevin-balaji/count.svg?" alt="Profile Counter" />
