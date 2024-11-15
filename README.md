@@ -1,8 +1,11 @@
-###About me
-<h1 align="center">Hi 👋, I'm Vevin balaji</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vevin-balaji&label=Profile%20views&color=0e75b6&style=flat" alt="vevin-balaji" /> </p>
+## GitHub Contributions Graph
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vevin-balaji" alt="vevin-balaji" /></a> </p>
+[![Ashwin's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vevin-balaji&theme=github-dark)](https://github.com/Vevin-balaji)
+
+<h1 align="center">Hi 👋, I'm Vevin balaji</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vevin-balaji&label=Profile%20views&color=0e75b6&style=flat" alt="vevin-balaji" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vevin-balaji" alt="Vevin-balaji" /></a> </p>
 
 - 🔭 I’m currently working on **AR Food Menu**
 
@@ -35,9 +38,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vevin-balaji"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vevin-balaji" /></a><a href="https://ko-fi.com/vevin-balaji"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vevin-balaji" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vevin-balaji&show_icons=true&locale=en&layout=compact" alt="vevin-balaji" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vevin-balaji&show_icons=true&locale=en&layout=compact" alt="Vevin-balaji" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vevin-balaji&show_icons=true&locale=en" alt="vevin-balaji" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vevin-balaji&show_icons=true&locale=en" alt="vevin-balaji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vevin-balaji&" alt="vevin-balaji" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vevin-balaji&" alt="Vevin-balaji" /></p>
 
