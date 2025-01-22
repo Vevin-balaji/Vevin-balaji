@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vevin-balaji" alt="Vevin-balaji" /></a> </p>
 
-- 🔭 I’m currently working on **AR Food Menu**
 
 - 🌱 I’m currently learning **react**
 
